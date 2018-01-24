@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HoneyDoList</string>
+    <string name="do_list">Enter the list items</string>
+    <string name="savebtntxt">Save me !</string>
+</resources>
